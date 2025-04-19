@@ -1,0 +1,9 @@
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.App h1 {
+  margin-bottom: 0.5rem;
+}
